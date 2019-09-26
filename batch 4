@@ -1,3 +1,4 @@
 #! /bin/sh
 var="hello world"
 echo "$var"
+echo " this updated"
