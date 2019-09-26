@@ -1,0 +1,3 @@
+#! /bin/sh
+var="hello world"
+echo "$var"
